@@ -1,4 +1,4 @@
-const Transaction = require('../models/paymentmodel');
+const Transaction = require('../models/PaymentModel');
 const { generateHmacSha256Hash } = require('../utils/helper');
 const axios = require('axios');
 
