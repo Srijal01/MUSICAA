@@ -186,7 +186,6 @@
 
 ### Payment Gateways
 - **eSewa** - Nepal's leading payment gateway
-- **Khalti** - Digital wallet payment
 
 ### DevOps & Deployment
 - **Version Control**: Git & GitHub
